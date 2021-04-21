@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#brandbar {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    font-size: 30px;
+}
+
+#photos-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.photo {
+    width: 200px;
+    height: 200px;
+
+}
+
+#coffin-3 {
+    margin-top: -16px;
+}
